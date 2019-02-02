@@ -1,0 +1,13 @@
+* short term
+  - sell Alien Monitor
+  - Carmax appraisal
+  - update resume/CV
+   - send to Disney
+   - send to Fender
+  
+* mid term
+  - Unix advanced
+  - noSQL app
+  - SQL app
+  - python + pytorch + GPU
+  - 
