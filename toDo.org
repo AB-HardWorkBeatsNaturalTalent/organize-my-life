@@ -5,7 +5,14 @@
    - send to Disney
    - send to Fender
    - download voice memos and organize
-  
+   - 16 bar template
+   - make uncle don lesson transcript
+   - add voice memo notes to voice memo notes dictionary
+   
+* messy
+  - chop the voice memos
+    - 4/20/18 : top
+   
 * mid term
   - Unix advanced
   - noSQL app
