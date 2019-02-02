@@ -4,6 +4,7 @@
   - update resume/CV
    - send to Disney
    - send to Fender
+   - download voice memos and organize
   
 * mid term
   - Unix advanced
