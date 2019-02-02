@@ -18,4 +18,4 @@
   - noSQL app
   - SQL app
   - python + pytorch + GPU
-  - 
+  - linear algebra
