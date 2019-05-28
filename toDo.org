@@ -1,21 +1,25 @@
 * short term
   - sell Alien Monitor
-  - Carmax appraisal
   - update resume/CV
-   - send to Disney
    - send to Fender
    - download voice memos and organize
    - 16 bar template
    - make uncle don lesson transcript
+      - what are the main lessons hes trying to get at? 
    - add voice memo notes to voice memo notes dictionary
    
 * messy
   - chop the voice memos
     - 4/20/18 : top
    
-* mid term
+* mid term : if you learned it, it'll be in your tool box.
   - Unix advanced
   - noSQL app
   - SQL app
   - python + pytorch + GPU
-  - linear algebra
+
+* always time for freestylin'
+
+- man i always got time for freestylin' 
+- even when a mo'fucka gettin' violent
+- same as when a man 
