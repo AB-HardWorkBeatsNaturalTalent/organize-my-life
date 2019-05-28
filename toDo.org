@@ -1,8 +1,17 @@
 * top priorities
 
+
+
+** womankind
+  - figure out the instructions
+  
 ** Software business
   - could consult/freelance design/gui/code
+  - build overall application framework for audio apps. 
+  
+  
   - Key to Music : the brenner suite of musical apps 
+  
     - key to guitar
       - need to learn Adobe for GUI front end. 
     - key to piano
