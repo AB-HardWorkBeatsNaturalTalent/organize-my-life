@@ -62,5 +62,20 @@
 
 * carter future bass chords
   1. chords
-  2. chop chords into time, to make rhythm, around where the snare hits,
-  3. make 3 copies of this midi
+  2. chop chords into time, to make rhythm, think where the percussion hits,
+  3. make copies of this midi
+  
+* take the wheel, and morph it
+  - reverse it, chop it, speed it, flip it. 
+  
+* carter  : future bass
+   - chord, serum sytnh
+   - white noise @ +40 semitons
+   - choir
+ - mid bass : keep the low note, drop the rest
+   - try a square wave. pitchd own, use hyperdimension, compression, distortion. 
+ - stupidest kick
+   - follow the bass, wherever the bass hits, you put
+     - plus a couple more
+ - future bass snare : find on splice
+   - use 2 sounds on top each other. decay.
