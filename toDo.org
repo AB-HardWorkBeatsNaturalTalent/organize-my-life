@@ -11,6 +11,7 @@
 ** finances
   - read and store all loan related documents
   - update spreadsheet
+  - send car shit to lawyer
 ** career
   - 
 ** womankind
