@@ -1,6 +1,22 @@
 * top priorities
 ** MAKE THE LIST. consolidate. plan. execute!
-  - 
+  1. calendar/schedule
+  2. Eating
+    - shop, cook, eat, 
+    - log($, calories)
+  3. Training
+    - pushup, handstand, squat, dip, meditate, pullup, run, lunge, 
+    - log(numberReps, exerciseName, date)
+  4. Social
+    - relationships, chat, text, media
+  5. Finances
+    - bills, future, daily, yearly, taxes, businesses, loans
+  6. Career/Work
+    - 
+  7. Hobbies
+  8. Business
+  9. Learning
+  
 
 ** meditation projects
   - do piano
